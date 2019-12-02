@@ -1,5 +1,5 @@
 # MSc Statistics
-Learning materials and homework used in attaining courses of MSc. Statistics in Berlin (2019-2021). Below is the list of courses by term.
+Learning materials and homework used in attaining courses of [MSc. Statistics in Berlin](https://www.stat.de/) (2019-2021). Below is the list of courses by term.
 
 ## Winter term 2019/20
 * Multivariate Statistical Analysis: 
